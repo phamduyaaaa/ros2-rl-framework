@@ -44,7 +44,7 @@ Xây dựng một **framework RL đơn giản, rõ ràng, hỗ trợ ROS 2**, gi
 
 ### 1. Clone repository
 ```bash
-git clone <link-repo>
+git clone [<link-repo>](https://github.com/phamduyaaaa/ros2-rl-framework.git)
 ```
 ### 2. Di chuyển vào thư mục src trong workspace ROS 2 của bạn:
 ```bash
