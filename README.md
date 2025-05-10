@@ -1,6 +1,6 @@
 # 🤖 RL-Gazebo-ROS2 Framework
 
-Một framework mô-đun, hỗ trợ ROS 2, dùng để huấn luyện các agent học tăng cường (Reinforcement Learning - RL) trực tiếp trên Gazebo — hướng đến tính thực tế, dễ mở rộng, và phục vụ các bài toán robot thực tế.
+Một framework mô-đun, hỗ trợ ROS 2, dùng để huấn luyện các agent học tăng cường (Reinforcement Learning - RL) trực tiếp trên Gazebo — hướng đến tính thực tế, dễ mở rộng, và phục vụ các bài toán robot thực tế. (https://www.youtube.com/watch?v=Rs2WTwZR-ps)
 
 ---
 
